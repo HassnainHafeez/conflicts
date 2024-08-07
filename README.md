@@ -1,2 +1,3 @@
 # conflicts
-This is the git repository
+
+This is my first git repository
